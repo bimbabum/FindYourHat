@@ -1,4 +1,4 @@
-# FindYourHat
+# Find Your Hat
 
 *Mini project after finish learning Javascript.*
 
